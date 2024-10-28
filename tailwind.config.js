@@ -17,6 +17,9 @@ export default {
       },
       fontFamily: {
         'JosefinSans': ['Josefin Sans', 'sans-serif']
+      },
+      backgroundImage: {
+        'pattern': "url('/bg-pattern-desktop.svg')"
       }
     },
   },

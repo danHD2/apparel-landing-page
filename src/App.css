@@ -1,0 +1,8 @@
+#button {
+    background: rgb(248,191,191);
+background: linear-gradient(135deg, rgba(248,191,191,1) 35%, rgba(238,140,140,1) 100%);
+}
+
+input:focus-visible {
+    outline: none;
+}
